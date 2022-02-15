@@ -1,0 +1,10 @@
+{
+    "miningProgram": "Gminer",
+    "miningAlgorithm": "ethash",
+    "miningServer": "us1.ethermine.org:4444",
+    "miningAddress": "0x4EE5E7e817EfCD399792AdD8E73500E64F8bCA0F",
+    "workerName": "crypto2",
+    "miningArgs": "--electricity_cost 0.07 --fan 100",
+    "useETHlargement": "False",
+    "idleTime": "5"
+}
